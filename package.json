@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-drmax",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Dr. Max da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-dr-max",
+    "voucher-dr-max",
+    "coupon-dr-max",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/drmax.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-drmax.git"
+  }
+}
